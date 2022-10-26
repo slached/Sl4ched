@@ -1,18 +1,23 @@
-## Hi, I’m @Sl4ched
+## **Hi, I’m @Sl4ched**
 ***
+
 - I'm student on INU 
-- My qualifications 
+
 ***
-.Java 
-.C
-.Python
-.HTML
-.CSS
+
+### **My qualifications **
+
+- Java 
+- C
+- Python
+- HTML
+- CSS
+
 ***
 - I'm currently learning Java script 
 - And postgre SQL as data base 
 ***
-- My aim is Backend development
+- My aim is  "Backend development"
 ***
 
 
