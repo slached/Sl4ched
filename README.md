@@ -12,6 +12,7 @@
 - Python
 - HTML
 - CSS
+- JavaScript
 
 ***
 - I'm currently learning Java script 
