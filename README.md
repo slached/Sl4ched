@@ -5,7 +5,7 @@
 
 ***
 
-### **My qualifications**
+### **My Qualifications**
 
 - Java 
 - C
