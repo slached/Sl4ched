@@ -14,11 +14,7 @@
 - CSS
 - JavaScript
 
-***
-- I'm currently learning Java script 
-- And postgre SQL as data base 
-***
-- My aim is  "Backend development"
+- My Future goal is  "Backend development"
 ***
 
 
