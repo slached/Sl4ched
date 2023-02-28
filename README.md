@@ -13,11 +13,7 @@
 - HTML
 - CSS
 - JavaScript
-- PostgreSQL as database
+- React
+- PostgreSQL
 
-- My Future goal is  "Backend development"
 ***
-
-
-
-### ![image](https://i.pinimg.com/564x/34/16/65/341665199bb597cdfae9848f975b844f.jpg)
