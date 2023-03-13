@@ -8,6 +8,7 @@
 ### **My Qualifications**
 
 - Java 
+- Kotlin
 - C
 - Python
 - HTML
