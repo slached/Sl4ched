@@ -17,5 +17,6 @@
 - React
 - PostgreSQL
 - MongoDB
+- Node JS
 
 ***
