@@ -18,5 +18,6 @@
 - PostgreSQL
 - MongoDB
 - Node JS
+- Express
 
 ***
