@@ -11,11 +11,12 @@
 - HTML
 - CSS
 - JavaScript
+- RestAPI
   
 - React
 - PostgreSQL
 - MongoDB
-- Node JS
+- Node.js
 - Express
 - Sanic
 - Tailwind
