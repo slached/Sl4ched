@@ -21,5 +21,5 @@
 - Sanic
 - Tailwind
 - Bootstrap
-
+- Django
 ***
