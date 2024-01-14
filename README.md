@@ -22,4 +22,7 @@
 - Tailwind
 - Bootstrap
 - Django
+- Kubernetes
+- Minikube
+- Docker
 ***
