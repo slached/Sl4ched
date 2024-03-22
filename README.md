@@ -6,22 +6,25 @@
 - Java 
 - Kotlin
 - C
+- C#
 - Python
   
 - HTML
 - CSS
 - JavaScript
 - RestAPI
+- SOAPAPI
   
-- React
+- React JS
 - PostgreSQL
 - MongoDB
 - Node.js
 - Express
+- Django
 - Sanic
 - Tailwind
 - Bootstrap
-- Django
+
 - Kubernetes
 - Minikube
 - Docker
