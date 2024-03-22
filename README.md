@@ -1,30 +1,31 @@
-## **Hi, I’m @Sl4ched**
-***
-
 ### **My Qualifications**
 
-- Java 
-- Kotlin
-- C
-- C#
-- Python
+-**Development Languages**
+  - Java 
+  - Kotlin
+  - C
+  - C#
+  - Python
   
-- HTML
-- CSS
-- JavaScript
-- RestAPI
-- SOAPAPI
+-**Frontend**
+  - HTML
+  - CSS
+  - JavaScript
+  - RestAPI
+  - SOAPAPI 
+  - React JS
+  - Tailwind
+  - Bootstrap
   
-- React JS
-- PostgreSQL
-- MongoDB
-- Node.js
-- Express
-- Django
-- Sanic
-- Tailwind
-- Bootstrap
+  -**Backend**
+  - PostgreSQL
+  - MongoDB
+  - Node.js
+  - Express
+  - Django
+  - Sanic
 
+-**DevOps**
 - Kubernetes
 - Minikube
 - Docker
